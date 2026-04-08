@@ -28,20 +28,20 @@ Link :  https://my-portfolio-weld-alpha-46.vercel.app
 
 📂 Project Structure
 
-src/
-├── assets
-├── components
-│ ├── Navbar.jsx
-│ ├── Hero.jsx
-│ ├── About.jsx
-│ ├── Skills.jsx
-│ ├── Projects.jsx
-│ ├── Contact.jsx
-│ └── Footer.jsx
-├── data/
-├── App.jsx
-├── main.jsx
-└── index.css
+src/<br>
+├── assets<br>
+├── components<br>
+│ ├── Navbar.jsx<br>
+│ ├── Hero.jsx<br>
+│ ├── About.jsx<br>
+│ ├── Skills.jsx<br>
+│ ├── Projects.jsx<br>
+│ ├── Contact.jsx<br>
+│ └── Footer.jsx<br>
+├── data/<br>
+├── App.jsx<br>
+├── main.jsx<br>
+└── index.css<br>
 
 📩 Contact
 
@@ -50,9 +50,9 @@ Phone: 7986428149
 
 🌐Connect With Me
 
- LinkedIn: https://www.linkedin.com/in/mohd-anas-522221385
- GitHub: https://github.com/anas78678
- Instagram: https://www.instagram.com/anas_kasgar
+ LinkedIn: https://www.linkedin.com/in/mohd-anas-522221385<br>
+ GitHub: https://github.com/anas78678<br>
+ Instagram: https://www.instagram.com/anas_kasgar<br>
 
 📄 License
 
