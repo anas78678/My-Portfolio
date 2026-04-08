@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to right, #020617, #0f172a);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  padding-top: 80px;
+}
